@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [amazon-api-gateway, annotation-api, app-name, aws-cdk, aws-lambda, aws-v2-sdk, dynamodb, jackson-databind, java, java-application, junit, junit-params, logback, maven, readme, security-annotations, security-oauth2, shade, yaml]
